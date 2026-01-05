@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neel kene</h1>
-<h3 align="center">Passionate about Web dev. , | Data Science | Python | Sql</h3>
+<h3 align="center">Passionate about Web Dev | Data Science | Python | Sql</h3>
 
 - 💬 Ask me about **Databases**
 
